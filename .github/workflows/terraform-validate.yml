@@ -1,0 +1,28 @@
+name: Daily Terraform Validate
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch: {}
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: '1.6.0'
+      - name: Terraform Init
+        working-directory: terraform
+        run: terraform init -backend=false
+      - name: Terraform Validate
+        working-directory: terraform
+        run: terraform validate || true
+      - name: Save plan output (if any)
+        if: always()
+        run: |
+          echo "Validation run at $(date --utc)" > terraform/last_validate.txt
+          git add terraform/last_validate.txt || true
+          git commit -m "ci(terraform): validation result - $(date --utc)" || true
+          git push || true

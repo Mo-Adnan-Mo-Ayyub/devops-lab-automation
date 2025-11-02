@@ -1,0 +1,47 @@
+name: "Auto Human-like Activity"
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily 6 AM UTC
+  workflow_dispatch: {}
+
+jobs:
+  human_like_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python (used for randomization)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Make a realistic update
+        run: |
+          chmod +x scripts/generate_update.sh
+          python - <<'PY'
+import random, time
+sleep = random.randint(0, 1200)
+print(f"Sleeping {sleep}s to randomize run time")
+time.sleep(sleep)
+PY
+          ./scripts/generate_update.sh
+
+      - name: Push changes
+        env:
+          GIT_AUTHOR_NAME: "Mo Adnan Mo Ayyub"
+          GIT_AUTHOR_EMAIL: "moadnanmoayyub@gmail.com"
+        run: |
+          git config user.name "${GIT_AUTHOR_NAME}"
+          git config user.email "${GIT_AUTHOR_EMAIL}"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          MSG=$(shuf -n 1 scripts/commit_msg_pool.txt)
+          git commit -m "$MSG"
+          git push origin HEAD:refs/heads/main

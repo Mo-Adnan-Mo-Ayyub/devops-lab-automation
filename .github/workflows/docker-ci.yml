@@ -1,0 +1,19 @@
+name: Docker CI (build & smoke test)
+on:
+  push:
+    branches:
+      - main
+      - 'auto/*'
+  workflow_dispatch: {}
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build image
+        run: |
+          docker build -t devops-lab:ci .
+      - name: Run smoke test
+        run: |
+          docker run --rm devops-lab:ci /bin/sh -c "echo smoke-test && exit 0"

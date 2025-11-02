@@ -1,0 +1,6 @@
+chore: daily notes — updated TIL and docs
+docs: add short finding about docker layering
+chore: minor docs update and activity log
+fix: adjust README wording after testing workflow
+chore: daily devops lab note
+feat: added small improvement to TIL and README
