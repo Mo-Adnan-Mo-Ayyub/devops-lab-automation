@@ -15,3 +15,4 @@ Activity log
 - [2025-11-15 04:41:34] Minor cleanup to scripts and infra docs.
 - [2025-11-16 04:44:11] Minor cleanup to scripts and infra docs.
 - [2025-11-17 04:45:30] Improved container image security layers.
+- [2025-11-18 04:43:22] Improved container image security layers.
