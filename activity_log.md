@@ -29,3 +29,4 @@ Activity log
 - [2025-11-29 04:43:18] Tweaked CI pipeline for better caching.
 - [2025-11-30 04:51:07] Improved container image security layers.
 - [2025-12-01 05:01:57] Updated README with new DevOps insight.
+- [2025-12-02 04:49:12] Minor cleanup to scripts and infra docs.
