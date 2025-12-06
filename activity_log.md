@@ -33,3 +33,4 @@ Activity log
 - [2025-12-03 04:47:11] Tweaked CI pipeline for better caching.
 - [2025-12-04 04:49:13] Improved container image security layers.
 - [2025-12-05 04:47:46] Minor cleanup to scripts and infra docs.
+- [2025-12-06 04:41:49] Minor cleanup to scripts and infra docs.
