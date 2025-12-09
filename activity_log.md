@@ -36,3 +36,4 @@ Activity log
 - [2025-12-06 04:41:49] Minor cleanup to scripts and infra docs.
 - [2025-12-07 04:48:58] Minor cleanup to scripts and infra docs.
 - [2025-12-08 04:51:35] Refined Terraform config for reliability.
+- [2025-12-09 04:47:12] Improved container image security layers.
