@@ -42,3 +42,4 @@ Activity log
 - [2025-12-12 04:51:31] Improved container image security layers.
 - [2025-12-13 04:45:06] Updated README with new DevOps insight.
 - [2025-12-14 04:51:32] Refined Terraform config for reliability.
+- [2025-12-15 04:56:42] Tweaked CI pipeline for better caching.
