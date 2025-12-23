@@ -54,3 +54,4 @@ Details: Tried out a short snippet and noted the result.
 - Refined Terraform config for reliability.
 - Refined Terraform config for reliability.
 - Improved container image security layers.
+- Minor cleanup to scripts and infra docs.
