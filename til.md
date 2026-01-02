@@ -64,3 +64,4 @@ Details: Tried out a short snippet and noted the result.
 - Refined Terraform config for reliability.
 - Improved container image security layers.
 - Updated README with new DevOps insight.
+- Updated README with new DevOps insight.
