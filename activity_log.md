@@ -64,3 +64,4 @@ Activity log
 - [2026-01-03 04:50:25] Refined Terraform config for reliability.
 - [2026-01-04 05:01:16] Tweaked CI pipeline for better caching.
 - [2026-01-05 05:09:11] Tweaked CI pipeline for better caching.
+- [2026-01-06 04:55:56] Tweaked CI pipeline for better caching.
