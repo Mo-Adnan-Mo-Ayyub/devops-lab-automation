@@ -66,3 +66,4 @@ Activity log
 - [2026-01-05 05:09:11] Tweaked CI pipeline for better caching.
 - [2026-01-06 04:55:56] Tweaked CI pipeline for better caching.
 - [2026-01-07 04:57:07] Refined Terraform config for reliability.
+- [2026-01-08 04:55:32] Improved container image security layers.
