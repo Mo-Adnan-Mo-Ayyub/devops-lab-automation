@@ -75,3 +75,4 @@ Details: Tried out a short snippet and noted the result.
 - Tweaked CI pipeline for better caching.
 - Updated README with new DevOps insight.
 - Improved container image security layers.
+- Updated README with new DevOps insight.
