@@ -77,3 +77,4 @@ Activity log
 - [2026-01-16 04:56:03] Minor cleanup to scripts and infra docs.
 - [2026-01-17 04:50:18] Improved container image security layers.
 - [2026-01-18 04:56:04] Improved container image security layers.
+- [2026-01-19 05:05:18] Minor cleanup to scripts and infra docs.
