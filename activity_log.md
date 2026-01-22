@@ -80,3 +80,4 @@ Activity log
 - [2026-01-19 05:05:18] Minor cleanup to scripts and infra docs.
 - [2026-01-20 05:00:56] Minor cleanup to scripts and infra docs.
 - [2026-01-21 04:59:54] Minor cleanup to scripts and infra docs.
+- [2026-01-22 05:01:50] Refined Terraform config for reliability.
