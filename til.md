@@ -90,3 +90,4 @@ Details: Tried out a short snippet and noted the result.
 - Updated README with new DevOps insight.
 - Refined Terraform config for reliability.
 - Minor cleanup to scripts and infra docs.
+- Refined Terraform config for reliability.
