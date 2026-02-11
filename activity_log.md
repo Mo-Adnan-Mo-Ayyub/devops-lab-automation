@@ -100,3 +100,4 @@ Activity log
 - [2026-02-08 05:44:56] Updated README with new DevOps insight.
 - [2026-02-09 05:50:18] Improved container image security layers.
 - [2026-02-10 05:54:52] Tweaked CI pipeline for better caching.
+- [2026-02-11 05:50:27] Minor cleanup to scripts and infra docs.
