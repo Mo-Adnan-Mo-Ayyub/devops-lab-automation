@@ -118,3 +118,4 @@ Activity log
 - [2026-02-26 05:37:38] Improved container image security layers.
 - [2026-02-27 05:33:48] Improved container image security layers.
 - [2026-02-28 05:07:27] Updated README with new DevOps insight.
+- [2026-03-01 05:34:23] Minor cleanup to scripts and infra docs.
