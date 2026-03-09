@@ -126,3 +126,4 @@ Activity log
 - [2026-03-06 05:29:10] Tweaked CI pipeline for better caching.
 - [2026-03-07 05:12:06] Tweaked CI pipeline for better caching.
 - [2026-03-08 05:26:51] Tweaked CI pipeline for better caching.
+- [2026-03-09 05:37:22] Minor cleanup to scripts and infra docs.
