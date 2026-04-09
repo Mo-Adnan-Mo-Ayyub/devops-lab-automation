@@ -157,3 +157,4 @@ Activity log
 - [2026-04-06 06:13:45] Updated README with new DevOps insight.
 - [2026-04-07 06:02:01] Updated README with new DevOps insight.
 - [2026-04-08 06:04:14] Refined Terraform config for reliability.
+- [2026-04-09 06:05:33] Minor cleanup to scripts and infra docs.
