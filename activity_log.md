@@ -199,3 +199,4 @@ Activity log
 - [2026-05-18 08:29:47] Minor cleanup to scripts and infra docs.
 - [2026-05-19 08:01:02] Updated README with new DevOps insight.
 - [2026-05-20 07:59:04] Tweaked CI pipeline for better caching.
+- [2026-05-21 08:07:04] Updated README with new DevOps insight.
