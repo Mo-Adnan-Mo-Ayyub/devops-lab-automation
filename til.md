@@ -208,3 +208,4 @@ Details: Tried out a short snippet and noted the result.
 - Improved container image security layers.
 - Updated README with new DevOps insight.
 - Updated README with new DevOps insight.
+- Improved container image security layers.
