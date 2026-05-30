@@ -212,3 +212,4 @@ Details: Tried out a short snippet and noted the result.
 - Improved container image security layers.
 - Refined Terraform config for reliability.
 - Minor cleanup to scripts and infra docs.
+- Minor cleanup to scripts and infra docs.
