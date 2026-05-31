@@ -209,3 +209,4 @@ Activity log
 - [2026-05-28 08:24:55] Refined Terraform config for reliability.
 - [2026-05-29 08:12:34] Minor cleanup to scripts and infra docs.
 - [2026-05-30 07:24:56] Minor cleanup to scripts and infra docs.
+- [2026-05-31 07:55:25] Refined Terraform config for reliability.
