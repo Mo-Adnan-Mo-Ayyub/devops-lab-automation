@@ -221,3 +221,4 @@ Activity log
 - [2026-06-09 08:05:30] Updated README with new DevOps insight.
 - [2026-06-10 08:30:03] Updated README with new DevOps insight.
 - [2026-06-11 08:57:37] Updated README with new DevOps insight.
+- [2026-06-12 08:44:52] Tweaked CI pipeline for better caching.
