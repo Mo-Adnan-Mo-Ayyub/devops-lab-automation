@@ -224,3 +224,4 @@ Activity log
 - [2026-06-12 08:44:52] Tweaked CI pipeline for better caching.
 - [2026-06-13 08:00:01] Refined Terraform config for reliability.
 - [2026-06-14 08:29:53] Minor cleanup to scripts and infra docs.
+- [2026-06-15 10:41:51] Minor cleanup to scripts and infra docs.
