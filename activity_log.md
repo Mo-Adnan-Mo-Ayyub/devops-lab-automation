@@ -239,3 +239,4 @@ Activity log
 - [2026-06-27 07:33:21] Refined Terraform config for reliability.
 - [2026-06-28 08:01:31] Minor cleanup to scripts and infra docs.
 - [2026-06-29 09:13:51] Improved container image security layers.
+- [2026-06-30 08:04:20] Minor cleanup to scripts and infra docs.
