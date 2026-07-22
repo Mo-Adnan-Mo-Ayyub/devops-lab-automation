@@ -261,3 +261,4 @@ Activity log
 - [2026-07-19 07:02:51] Minor cleanup to scripts and infra docs.
 - [2026-07-20 07:39:12] Tweaked CI pipeline for better caching.
 - [2026-07-21 07:04:23] Refined Terraform config for reliability.
+- [2026-07-22 07:06:03] Updated README with new DevOps insight.
