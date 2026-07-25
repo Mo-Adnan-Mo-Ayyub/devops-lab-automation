@@ -268,3 +268,4 @@ Details: Tried out a short snippet and noted the result.
 - Updated README with new DevOps insight.
 - Updated README with new DevOps insight.
 - Refined Terraform config for reliability.
+- Updated README with new DevOps insight.
