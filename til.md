@@ -277,3 +277,4 @@ Details: Tried out a short snippet and noted the result.
 - Updated README with new DevOps insight.
 - Refined Terraform config for reliability.
 - Improved container image security layers.
+- Refined Terraform config for reliability.
