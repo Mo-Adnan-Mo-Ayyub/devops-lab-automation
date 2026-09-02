@@ -303,3 +303,4 @@ Activity log
 - [2026-08-30 10:01:30] Updated README with new DevOps insight.
 - [2026-08-31 11:00:35] Improved container image security layers.
 - [2026-09-01 09:31:08] Improved container image security layers.
+- [2026-09-02 08:54:06] Refined Terraform config for reliability.
