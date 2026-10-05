@@ -335,3 +335,4 @@ Activity log
 - [2026-10-02 10:37:12] Minor cleanup to scripts and infra docs.
 - [2026-10-03 09:57:43] Updated README with new DevOps insight.
 - [2026-10-04 10:41:02] Minor cleanup to scripts and infra docs.
+- [2026-10-05 11:42:43] Minor cleanup to scripts and infra docs.
