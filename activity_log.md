@@ -337,3 +337,4 @@ Activity log
 - [2026-10-04 10:41:02] Minor cleanup to scripts and infra docs.
 - [2026-10-05 11:42:43] Minor cleanup to scripts and infra docs.
 - [2026-10-06 11:24:23] Updated README with new DevOps insight.
+- [2026-10-07 11:12:37] Improved container image security layers.
