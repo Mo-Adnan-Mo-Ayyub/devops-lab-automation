@@ -356,3 +356,4 @@ Details: Tried out a short snippet and noted the result.
 - Minor cleanup to scripts and infra docs.
 - Improved container image security layers.
 - Refined Terraform config for reliability.
+- Updated README with new DevOps insight.
