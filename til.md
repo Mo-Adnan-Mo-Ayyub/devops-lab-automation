@@ -363,3 +363,4 @@ Details: Tried out a short snippet and noted the result.
 - Minor cleanup to scripts and infra docs.
 - Minor cleanup to scripts and infra docs.
 - Refined Terraform config for reliability.
+- Updated README with new DevOps insight.
