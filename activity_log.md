@@ -372,3 +372,4 @@ Activity log
 - [2026-11-08 11:25:00] Updated README with new DevOps insight.
 - [2026-11-09 13:09:24] Tweaked CI pipeline for better caching.
 - [2026-11-10 12:51:06] Refined Terraform config for reliability.
+- [2026-11-11 11:59:22] Improved container image security layers.
