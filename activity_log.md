@@ -388,3 +388,4 @@ Activity log
 - [2026-11-24 15:03:14] Minor cleanup to scripts and infra docs.
 - [2026-11-25 14:44:42] Improved container image security layers.
 - [2026-11-26 14:08:14] Tweaked CI pipeline for better caching.
+- [2026-11-27 14:06:24] Improved container image security layers.
