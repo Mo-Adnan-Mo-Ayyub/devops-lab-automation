@@ -393,3 +393,4 @@ Details: Tried out a short snippet and noted the result.
 - Improved container image security layers.
 - Tweaked CI pipeline for better caching.
 - Improved container image security layers.
+- Updated README with new DevOps insight.

@@ -389,3 +389,4 @@ Activity log
 - [2026-11-25 14:44:42] Improved container image security layers.
 - [2026-11-26 14:08:14] Tweaked CI pipeline for better caching.
 - [2026-11-27 14:06:24] Improved container image security layers.
+- [2026-11-28 13:23:46] Updated README with new DevOps insight.
